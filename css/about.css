@@ -27,8 +27,8 @@
         }
 
         header {
-            background: var(--dark-bg);
-            color: white;
+            background: var(--light-bg);
+            
             padding: 1rem 0;
             position: sticky;
             top: 0;
