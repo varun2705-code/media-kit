@@ -684,7 +684,7 @@ section.processbg .row.pt-4 {
 
 .left-section-contact li {
     display: inline-block;
-    /* float: right; */
+    float: right;
 }
 
 .left-section-contact li {
@@ -2375,6 +2375,7 @@ text-align: justify;
     text-align: left;
     overflow-x: hidden;
     padding: 20px;
+    ox-shadow: 0 4px 12px rgb(0 0 0 / 4%);
     box-shadow: 0 4px 12px rgb(0 0 0 / 4%);
     margin-bottom: 30px;
     -webkit-transition: all 500ms ease;
@@ -4986,7 +4987,10 @@ color: #25313C;
         top: 11%;
 }
 
+.
 
+
+}
 
 @media (min-width: 768px) and (max-width: 1199px)
 {
@@ -5468,5 +5472,4 @@ border-radius: 32px ;
 .contact-btn:hover{
     background:#1177BD;
     color:#fff !important;
-}
 }
